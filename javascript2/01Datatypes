@@ -1,0 +1,19 @@
+console.log("mubin")
+let name ="mubin" 
+let age = 22
+let isloggedIn = false
+
+//number => 2 to power 53
+//bigint
+//string =>""
+//boolean =>true/false
+//null =>standalone value
+// undefined=>
+//symbol => unique
+
+//nonprimitive
+//object
+console.log(type of "mubin")
+// type jaane ke liye
+console.log(type of undefined) //undefined
+console.log(type of null) //object
